@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <p><i class="fas fa-graduation-cap"></i> Ph.D. Electrical and Computer Engineering</p>
-            <p><i class="fas fa-university"></i> University of Michigan</p>
-            <p><i class="fas fa-user"></i> Supervisor: Prof. Peter Seiler</p>
+subtitle:  Ph.D. Electrical and Computer Engineering
 
 profile:
   align: left
@@ -14,6 +12,9 @@ profile:
     <p>EECS</p>
     <p>1301 Beal Avenue</p>
     <p>Ann Arbor, MI 48109-2122</p>
+    <p><i class="fas fa-graduation-cap"></i> Ph.D. Electrical and Computer Engineering</p>
+    <p><i class="fas fa-university"></i> University of Michigan</p>
+    <p><i class="fas fa-user"></i> Supervisor: Prof. Peter Seiler</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
