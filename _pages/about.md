@@ -2,16 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:  <p><i class="fas fa-graduation-cap"></i> Ph.D. Electrical and Computer Engineering</p>
+            <p><i class="fas fa-university"></i> University of Michigan</p>
+            <p><i class="fas fa-user"></i> Supervisor: Prof. Peter Seiler</p>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>EECS</p>
+    <p>1301 Beal Avenue</p>
+    <p>Ann Arbor, MI 48109-2122</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +28,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+My research focuses on **robust and regret-optimal control**, including $H_2$ / $H_\infty$ preview control and uncertainty-aware controller synthesis.
+
+More specifically, I’m interested in connecting **uncertainty, optimization, and learning** to control and planning, with an emphasis on provable performance and scalable algorithms.
+
+Within the context of preview control and non-causal baselines, I have worked on convergence analysis and controller synthesis methods for both stochastic ($H_2$) and worst-case ($H_\infty$) settings.
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
