@@ -9,15 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p><i class="fas fa-graduation-cap"></i>
-     Ph.D. <a href="https://ece.engin.umich.edu/" target="_blank" rel="noopener">Electrical and Computer Engineering</a>
-  </p>
-  <p><i class="fas fa-university"></i>
-     <a href="https://umich.edu/" target="_blank" rel="noopener">University of Michigan</a>
-  </p>
-  <p><i class="fas fa-user"></i>
-     Supervisor: Prof. <a href="https://seiler.engin.umich.edu/" target="_blank" rel="noopener">Peter Seiler</a>
-  </p>
+  <p><i class="fas fa-graduation-cap"></i> Ph.D. [Electrical and Computer Engineering](https://ece.engin.umich.edu/)</p>
+  <p><i class="fas fa-university"></i> [University of Michigan](https://umich.edu/)</p>
+  <p><i class="fas fa-user"></i> Supervisor: Prof. [Peter Seiler](https://seiler.engin.umich.edu/)</p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
