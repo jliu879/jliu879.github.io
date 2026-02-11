@@ -9,12 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>EECS</p>
-    <p>1301 Beal Avenue</p>
-    <p>Ann Arbor, MI 48109-2122</p>
-    <p><i class="fas fa-graduation-cap"></i> Ph.D. Electrical and Computer Engineering</p>
-    <p><i class="fas fa-university"></i> University of Michigan</p>
-    <p><i class="fas fa-user"></i> Supervisor: Prof. Peter Seiler</p>
+    <p><i class="fas fa-graduation-cap"></i> Ph.D. [Electrical and Computer Engineering](https://ece.engin.umich.edu/)</p>
+    <p><i class="fas fa-university"></i> [University of Michigan](https://umich.edu/)</p>
+    <p><i class="fas fa-user"></i> Supervisor: Prof. [Peter Seiler](https://seiler.engin.umich.edu/)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
