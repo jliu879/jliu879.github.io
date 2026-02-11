@@ -23,10 +23,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<i class="fas fa-graduation-cap"></i> Ph.D. [Electrical and Computer Engineering](https://ece.engin.umich.edu/)
-
-<i class="fas fa-university"></i> [University of Michigan](https://umich.edu/)
-
+<i class="fas fa-graduation-cap"></i> Ph.D. [Electrical and Computer Engineering](https://ece.engin.umich.edu/)  
+<i class="fas fa-university"></i> [University of Michigan](https://umich.edu/)  
 <i class="fas fa-user"></i> Supervisor: Prof. [Peter Seiler](https://seiler.engin.umich.edu/)
 
 My research focuses on **robust and regret-optimal control**, including $H_2$ / $H_\infty$ preview control and uncertainty-aware controller synthesis.
