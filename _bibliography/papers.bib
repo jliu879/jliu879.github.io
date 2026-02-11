@@ -28,6 +28,12 @@ title = {{Modeling} of {Radiative} {Emission} from {Shallow} {Color} {Centers} i
 volume = {17},
 journal = {Laser \& Photonics Reviews},
 doi = {10.1002/lpor.202200529}
+abstract = {Optically active defects in diamond are widely used as bright single-photon sources for quantum sensing, computing, and communication. 
+For many applications, it is useful to place the emitter close to the diamond surface, where the radiative properties of the emitter are strongly modified by its dielectric environment. 
+It is well-known that the radiative power from an electric dipole decreases as the emitter approaches an interface with a higher-index dielectric, leading to an increase in the radiative lifetime. 
+For emitters in crystalline solids, modeling of this effect needs to take into account the crystal orientation and direction of the surface cut, which can greatly impact the emission characteristics. 
+In this paper, we provide a framework for analyzing the emission rates of shallow ($<100$ nm) defects, in which optical transitions are derived from electric dipoles in a plane perpendicular to their spin axis. 
+We present our calculations for the depth-dependent radiative lifetime for color centers in (100)-, (110)-, and (111)-cut diamond, which can be extended to other vacancy defects in diamond.}
 }
 
 @misc{liu2024stochasticlqrdesigndisturbance,
@@ -37,7 +43,13 @@ doi = {10.1002/lpor.202200529}
       eprint={2412.06662},
       archivePrefix={arXiv},
       primaryClass={math.OC},
-      url={https://arxiv.org/abs/2412.06662}, 
+      url={https://arxiv.org/abs/2412.06662},
+      abstract={This paper considers the discrete-time, stochastic LQR problem with $p$ steps of disturbance preview information where $p$ is finite.  
+We first  derive the solution for this problem on a finite horizon with linear, time-varying dynamics and time-varying costs.  
+Next, we derive the solution on the infinite horizon with linear, time-invariant dynamics and time-invariant costs.  
+Our proofs rely on the well-known principle of optimality.  We provide an independent proof for the principle of optimality that relies only on nested information structure.  
+Finally, we show that the finite preview controller converges to the optimal noncausal controller as the preview horizon $p$ tends to infinity. 
+We also provide a simple example to illustrate both the finite and infinite horizon results.}
 }
 
 @misc{liu2025uncertaintyregret,
@@ -47,7 +59,13 @@ doi = {10.1002/lpor.202200529}
       eprint={2510.21415},
       archivePrefix={arXiv},
       primaryClass={math.OC},
-      url={https://arxiv.org/abs/2510.21415}, 
+      url={https://arxiv.org/abs/2510.21415},
+      abstract={This paper proposes a robust regret control framework in which the performance baseline adapts to the realization of system uncertainty. 
+The plant is modeled as a discrete-time, uncertain linear time-invariant system with real-parametric uncertainty. 
+The performance baseline is the optimal non-causal controller constructed with full knowledge of the disturbance and the specific realization of the uncertain plant. 
+We show that a controller achieves robust additive regret relative to this baseline if and only if it satisfies a related, robust $H_\infty$ performance condition on a modified plant.  
+One technical issue is that the modified plant can, in general, have a complicated nonlinear dependence on the uncertainty.  
+We use a linear approximation step so that the robust additive regret condition can be recast as a standard $\mu$-synthesis problem. A numerical example is used to demonstrate  the approach.}
 }
 
 @article{Liu2024Robust,
@@ -59,4 +77,12 @@ number = {7},
 pages = {4532-4553},
 year = {2024}
 doi = {10.1002/rnc.7209}
+abstract = {This paper presents a synthesis method for robust, regret optimal control. 
+The plant is modeled in discrete‐time by an uncertain linear time‐invariant (LTI) system. 
+An optimal non‐causal controller is constructed using the nominal plant model and given full knowledge of the disturbance. 
+Robust regret is defined relative to the performance of this optimal non‐causal control. 
+It is shown that a controller achieves robust regret if and only if it satisfies a robust H∞$$ {H}_{\infty } $$ performance condition. 
+DK‐iteration can be used to synthesize a controller that satisfies this condition and hence achieve a given level of robust regret. 
+The approach is demonstrated two examples: (i) a single‐input, single‐output (SISO) classical design, and (ii) an active suspension for a quarter car model. 
+The SISO example is simple but is intended to provide insight about the robust regret control design. The quarter car example compares the robust regret controllers against regret controllers designed without plant uncertainty.
 }
