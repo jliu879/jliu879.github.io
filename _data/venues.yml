@@ -13,3 +13,7 @@
 "arXiv":
   url: https://arxiv.org/
   color: "#6a0dad"
+
+"LPR":
+  url: https://onlinelibrary.wiley.com/journal/18638899
+  color: "#c2185b"
