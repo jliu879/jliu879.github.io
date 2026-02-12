@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"Automatica":
+  url: https://www.sciencedirect.com/journal/automatica
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ACC26":
+  url: https://acc2026.a2c2.org/
+  color: "#b31b1b"
 
-"Vision":
+"RNC":
+  url: https://onlinelibrary.wiley.com/journal/10991239
   color: "#009f36"
