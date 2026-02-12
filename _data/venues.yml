@@ -9,3 +9,7 @@
 "RNC":
   url: https://onlinelibrary.wiley.com/journal/10991239
   color: "#009f36"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#6a0dad"
