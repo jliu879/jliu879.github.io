@@ -511,7 +511,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -528,11 +528,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=iG1ucuEAAAAJ", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
+        id: 'social-github',
+        title: 'Github',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/jietian-liu-65612b214", "_blank");
+          window.open("", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'Linkedin',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
         },
       },{
         id: 'social-github',
@@ -540,6 +547,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/jliu879", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/jietian-liu-65612b214", "_blank");
         },
       },{
       id: 'light-theme',
