@@ -32,10 +32,10 @@ cv:
         studyType: Ph.D.
         start_date: 2022
         end_date: 2027
+        Advisor: Prof. Peter Seiler
         # score: ""
         # courses: "Theory of Relativity"
         highlights:
-          - Advisor: Prof. Peter Seiler
           - Research in robust regret-optimal control and preview control
 
       - institution: University of Wisconsin-Madison
@@ -45,8 +45,8 @@ cv:
         studyType: B.S.
         start_date: 2019
         end_date: 2021
+        Advisor: Prof. Jennifer Choy
         highlights:
-          - Advisor: Prof. Jennifer Choy
           - Research about Nitrogen-vacancy center
 
     Experience:
