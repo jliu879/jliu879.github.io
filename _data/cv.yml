@@ -4,7 +4,7 @@ cv:
   email: jietian@umich.edu
   location: Ann Arbor, MI
   image: ""
-  summary:  Ph.D. candidate at the University of Michigan working on robust and regret-optimal control.
+  summary:  Ph.D. candidate at the University of Michigan working on robust and optimal control.
     My research focuses on H2/H∞ preview control, uncertainty-aware controller synthesis,
     and connections between control, optimization, and learning.
     
