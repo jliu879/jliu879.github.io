@@ -114,14 +114,14 @@ cv:
     #     awarder: German Physical Society
     #     summary: Awarded for outstanding scientific achievement
 
-    # Publications:
-    #   - title: Regret of Hinf Preview Controllers
-    #     authors:
-    #       - Liu, Jietian and Seiler, Peter
-    #     publisher: arXiv
-    #     releaseDate: 2026
-    #     url: https://arxiv.org/abs/2602.01420
-    #     # summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+    Publications:
+      - title: Regret of Hinf Preview Controllers
+        authors:
+          - Liu, Jietian and Seiler, Peter
+        publisher: arXiv
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2602.01420
+        # summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
     #   - title: Stochastic LQR Design with Disturbance Preview
     #     authors:
