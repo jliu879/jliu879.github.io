@@ -122,6 +122,13 @@ cv:
         releaseDate: 2026
         url: https://arxiv.org/abs/2602.01420
         # summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      
+      - title: Robust Regret Optimal Control with Uncertainty-Dependent Baseline
+        authors:
+          - Liu, Jietian and Seiler, Peter
+        publisher: arXiv
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2510.21415
 
       - title: Stochastic LQR Design with Disturbance Preview
         authors:
@@ -129,13 +136,6 @@ cv:
         publisher: Automatica
         releaseDate: 2024
         url: https://arxiv.org/abs/2412.06662
-       
-      - title: Robust Regret Optimal Control with Uncertainty-Dependent Baseline
-        authors:
-          - Liu, Jietian and Seiler, Peter
-        publisher: arXiv
-        releaseDate: 2026
-        url: https://arxiv.org/abs/2510.21415
        
       - title: Robust Regret Optimal Control
         authors:
