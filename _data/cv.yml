@@ -144,12 +144,12 @@ cv:
         releaseDate: 2024
         url: https://doi.org/10.1002/rnc.7209
 
-    #   - title: Modeling of Radiative Emission from Shallow Color Centers in Single Crystalline Diamond
-    #     authors:
-    #       - Zahedian, Maryam and Liu, Jietian and Vidrio, Ricardo and Kolkowitz, Shimon and Choy, Jennifer
-    #     publisher: Laser & Photonics Reviews
-    #     releaseDate: 2023
-    #     url: https://doi.org/10.1002/lpor.202200529
+      - title: Modeling of Radiative Emission from Shallow Color Centers in Single Crystalline Diamond
+        authors:
+          - Zahedian, Maryam and Liu, Jietian and Vidrio, Ricardo and Kolkowitz, Shimon and Choy, Jennifer
+        publisher: Laser & Photonics Reviews
+        releaseDate: 2023
+        url: https://doi.org/10.1002/lpor.202200529
         
     # Skills:
     #   - name: Physics
