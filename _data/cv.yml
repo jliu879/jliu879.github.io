@@ -140,7 +140,7 @@ cv:
        - title: Robust Regret Optimal Control
         authors:
           - Liu, Jietian and Seiler, Peter
-        publisher: International Journal of Robust and Nonlinear Control
+        publisher: RNC
         releaseDate: 2024
         url: https://doi.org/10.1002/rnc.7209
 
