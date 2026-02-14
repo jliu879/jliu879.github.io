@@ -115,7 +115,7 @@ cv:
     #     summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: Regret of $H_\infty$ Preview Controllers
+      - title: Regret of Hinf Preview Controllers
         authors:
           - Liu, Jietian and Seiler, Peter
         publisher: arXiv
